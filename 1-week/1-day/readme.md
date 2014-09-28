@@ -1,12 +1,7 @@
-* class starts at 9am
-* 20min around 11am
-* lunch 1pm - 2pm
-* one more 20min break around 3:40
-
 morning
 =========
 
-### intro - who am i 
+### intro - me me me
 
 ### whirlwind tour of the course syllabus
 

@@ -4,11 +4,15 @@ exceptions
 modules
 
 
+* default ruby version on rvm
+* subl at terminal
+
+
 * git intro
 
 * homework submission
 
-* morning exercise
+* morning exercise - also submit this
 
 * sublime setup
 
