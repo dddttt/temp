@@ -9,7 +9,7 @@ mac
 ====
 
 hipchat
-Xcode
+Xcode / command line tools
 homebrew
 RVM
 ruby 2.1
