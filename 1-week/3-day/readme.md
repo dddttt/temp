@@ -9,6 +9,8 @@ morning
 
 www.ruby-doc.org/core-2.1.2/Array.html
 
+MAYBE - debugging with pry
+
 Homework
 =========
 

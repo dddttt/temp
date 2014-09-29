@@ -21,3 +21,6 @@
 #####Phase 3
 - User should be given a menu of Calculator functionality
 - User should be able to choose intended functionality
+
+### Optional Extensions
+- Does your calculator allows addition of more then 2 numbers in one go? eg: 2 + 3 + 4

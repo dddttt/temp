@@ -1,8 +1,9 @@
 week 1
 
-* programming fundamentals
+* intro
 * development environment
 * development tools
+* programming fundamentals
 * ruby
 
 week 2
@@ -10,7 +11,7 @@ week 2
 * sinatra
 * HTML5
 * CSS
-* form inputs and OMDB API
+* form inputs and APIs
 * CSS positioning
 * file IO
 

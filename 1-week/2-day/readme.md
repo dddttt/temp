@@ -1,21 +1,77 @@
 morning
 ========
 
+## review
+
+* ruby basics
+* command line basics
+* sublime workflow
+* ruby gems - convienient system to share a logical piece of code
+* intro git - solves a complicated problem
+
+## ruby philosophy - programmer happiness
+
+
+
+note to self
+============
+
+* conversions to_i, to_s, to_f
+* puts vs print
+* == vs ===
+* modules - group methods by topic
+
 Flow control and functions
 ---------------------------
 
 * conditionals
 * if / unless
-* while / until
+
+make decisions
+
+code along - conditionals.rb
+drinkies.rb https://gist.github.com/epoch/cd78bfd079533ddc7b43
+
+lab-conditionals.md
+
+* case
+
+case-example.rb
+
+* loops - while / until
+
+loops.rb
+
 * function / methods
 
-drinkies.rb
-aircon.rb
+does 3 things:
+- group a few lines of code and assign name like variables name strings and numbers
+- optionally take arguments as input
+- return some result
 
-https://github.com/wofockham/wdi-6/commits/master/01-ruby/guess-number.rb
+leap year - quiz
+
+arrays
+=======
+
+arrays.rb
+
+enumberables
+============
+
+* each
+
+lab
+====
+
+guess_number.md
 
 bastard book of ruby has a nice intro to loops
 ruby.bastardsbook.com/chapters/loops/
+
+arrays
+======
+
 
 
 Homework

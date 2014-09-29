@@ -2,7 +2,7 @@ lesson ideas
 =============
 
 charades - jargon 
-get in touch with your inner self - ice breaker
+get in touch with your inner self - ice breaker - group therapy
 wdi count down page javascript
 
 coldhead.ninth.su/wdi6/

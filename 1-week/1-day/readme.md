@@ -28,6 +28,8 @@ end
 
 interactive ruby irb
 
+ruby-intro.rb - https://gist.github.com/epoch/f4d39ef0a20474410d64
+
 * numeric types
 * strings
 * interpolation
