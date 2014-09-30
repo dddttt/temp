@@ -1,3 +1,22 @@
+notes
+======
+
+* more flow control for loops, break, next
+* calling methods within methods
+* draw picture of function of big button of name
+
+def will_it_rain?
+  "yes"
+end
+
+* learned in management is delegation
+* managers take micromanage
+* the whole point of methods - reuse reuse reuse reuse reuse
+
+* question mark return boolean data type, true or false
+
+quiz - leap year
+
 morning
 ========
 
