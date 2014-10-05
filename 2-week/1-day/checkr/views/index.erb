@@ -1,0 +1,13 @@
+<form action="/">
+
+  <input name="password" placeholder="password" value="<%= @password %>">
+
+  <button>check my password</button>
+  
+</form>
+
+<% if @message %>
+
+<p><%= @message %></p>
+
+<% end %>

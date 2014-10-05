@@ -17,3 +17,10 @@ and stop that user is getting off at and *prints the total number of stops for t
 * Make subway lines are keys in a hash, while the values are an array of all the stops on each line.
 * The key to the lab is to find the __intersection__ of the lines at Union Square.
 * Make sure the stops that are the same for different lines have different names (i.e. 23rd on the N and on the 6 need to be differentiated)
+
+### Non-Required Hard Extensions:
+- Use input validation
+  - User must enter a line and station in the subway network
+  - If the user enters something else, your program should handle it
+- Add an additional lines
+- Allow trains to have multiple intersection points

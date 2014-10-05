@@ -11,3 +11,9 @@
 
 * attitude is more important then ability, choice is also more important then ability
 
+
+
+Your principal would call you to the office just to look cool.
+
+make shit happen
+
