@@ -11,6 +11,8 @@ def obj.new_method
   "do some things"
 end
 
+method(:test).owner
+
 responsive web design
 =====================
 
