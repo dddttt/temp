@@ -4,6 +4,10 @@ prelude to databases
 
 file class
 
+comma separated value
+
+-----------------
+
 HTTP request methods (GET vs POST) denotes our intention of our request
 
 safe action and unsafe action
@@ -25,6 +29,8 @@ POST requests are never cached
 POST requests do not remain in the browser history
 POST requests cannot be bookmarked
 POST requests have no restrictions on data length
+
+--------------
 
 homework
 
