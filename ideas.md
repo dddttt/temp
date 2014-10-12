@@ -11,6 +11,8 @@ projecteuler.net
 
 objects & classes - fish game
 
+piloting a new session staggering refactoring 
+
 
 todo
 =====
