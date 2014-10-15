@@ -17,3 +17,5 @@ Your principal would call you to the office just to look cool.
 
 make shit happen
 
+"I'm not a real programmer. I throw together things until it works then I move on. The real programmers will say "Yeah it works but you're leaking memory everywhere. Perhaps we should fix that." I’ll just restart Apache every 10 requests." -Rasmus Lerdorf
+

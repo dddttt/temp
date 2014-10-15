@@ -8,13 +8,18 @@ Database
 * constraint
 
 ALTER TABLE tablename ADD CONSTRAINT constraintname UNIQUE (columns);
+insert into 
 
 
 ActiveRecord and MVC
 ====================
 
+* orm
 * mvc
 * activerecord
+* activerecord methods
+* all, count, new, save, find, first, where, find_by, find([1,10]), order
+* all.each / find_each 
 
 afternoon
 =========
