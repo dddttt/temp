@@ -18,6 +18,12 @@ http://en.wikipedia.org/wiki/Sinatra_%28software%29#Frameworks_inspired_by_Sinat
 
 * created_at, updated_at already included
 
+* gemfile - major minor patch - semver
+* pessimistic version operator ~> 1.50 becomes 1.6 strips last than increment
+
+* routing and controllers - code along
+* views - code along
+
 afternoon
 ==========
 
