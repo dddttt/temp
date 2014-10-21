@@ -1,3 +1,10 @@
+* category views for garage sale
+
+* bootstrap-sass
+
+* user model
+* authentication
+
 associations
 =============
 

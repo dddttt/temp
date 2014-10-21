@@ -23,7 +23,8 @@ for each step I want to
 
 lab
 ====
-garage_sale products - name, price, :category
+* garage_sale products - name, price, :category
+* associations - :category
 
 
 associations
@@ -33,8 +34,6 @@ associations
 * name routes
 * migrations
 * generators destroy
-* semantic versioning gemfile
-
 
 lab
 ====
