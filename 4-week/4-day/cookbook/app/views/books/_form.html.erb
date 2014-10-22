@@ -1,0 +1,17 @@
+<%= form_for @book do |f| %>
+
+  <p>
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+  </p>
+  <p>
+    <%= f.label :cuisine %>
+    <%= f.select :cuisine, Book.cuisines %>
+  </p>
+  <p>
+    <%= f.label :image_url, 'bam for jam' %>
+    <%= f.text_field :image_url %>
+  </p>
+  <button>booook</button>
+
+<% end %>
